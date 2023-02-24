@@ -31,3 +31,6 @@ try:
 
 except (Exception, psycopg2.Error) as e :
     print(e)
+
+
+
